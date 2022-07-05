@@ -1,0 +1,35 @@
+
+
+
+
+
+.wdpf-content{
+	height: 420px;
+	line-height: 20px;
+	letter-spacing: 2px;
+	text-align: justify;
+}
+
+
+
+
+
+
+
+/*custom style for changing separator*/
+.breadcrumb>li+li:before{
+	content: ">";
+}
+.breadcrumb{
+	background-color: #BD7F7F;
+	border-radius: 0;
+}
+.pagination{
+
+}
+
+
+
+.navbar-header{
+	background-color: #000000;
+}

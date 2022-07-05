@@ -1,0 +1,3 @@
+CSS Project
+	1. home, about, contact, photogallery total 4 pages
+	2. Image slide show,
